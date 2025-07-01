@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 """
  Built-in Themes
 Seaborn provides five built-in themes:
-darkgrid: Adds a gray background with white gridlines. It is the default theme.
+darkgrid: Adds a gray background with white gridlines. It is the default theme.mm
 whitegrid: Adds gray gridlines on a white background.
 dark: Similar to darkgrid but without the gridlines.
 white: Similar to whitegrid but without the gridlines.
